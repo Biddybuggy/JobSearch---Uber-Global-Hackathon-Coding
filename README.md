@@ -1,4 +1,4 @@
-# job_search
+Job_Search
 
 A new Flutter project.
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Extra Notes:
+1. Android Studio, Dart-SDK, and Flutter-SDK are required to run the code on a computer.
+2. Right now, the JobSearch application is only available on Android. It will be available on iOS in the near future.
+3. Although the minimum viable product has been successfully developed, the JobSearch Team will continue to work on the application beyond the hackathon.

@@ -19,4 +19,5 @@ Extra Notes:
 1. Android Studio, Dart-SDK, and Flutter-SDK are required to run the code on a computer.
 2. Right now, the JobSearch application is only available on Android. It will be available on iOS in the near future.
 3. Although the minimum viable product has been successfully developed, the JobSearch Team will continue to work on the application beyond the hackathon.
-4. Run the file main.dart to run the application.
+4. Run the file main.dart to run the application. Just in case the application won't run, use the app-release-final.apk file. The file can be dragged to an emulator in Android Studio or downloaded on an Android phone. 
+5. Using Android 11 for the emulator in Android Studio is recommended.
